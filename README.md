@@ -5,5 +5,5 @@
 ```
 
 💻 I’m currently working on enterprise Next.js, Nest.js, and Apollo Server/Client integrations.  
-📚 I’m currently learning Next.js v13 and API schema options for performance and type safetey.  
+📚 I’m currently learning Next.js v14 and API schema options for performance and type safetey.  
 💬 Ask me about anything enterprise e-commerce related.  
